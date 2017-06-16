@@ -26,6 +26,7 @@
 * [Ruby] [gem](https://rubygems.org/)
 * [Ruby] [bundler](http://bundler.io/)
 * [Python] [pip](https://pip.pypa.io/en/stable/)
+* [Swift/Objective-C] [CocoaPods](https://cocoapods.org/)
 
 # 交流沟通
 
