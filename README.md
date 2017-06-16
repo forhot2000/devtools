@@ -16,6 +16,17 @@
 * [SourceTree](https://www.sourcetreeapp.com/)
 * [GitHub Desktop](https://desktop.github.com/)
 
+# 依赖项管理
+
+* [Node] [npm](https://www.npmjs.com/)
+* [web] [bower](https://bower.io/)
+* [Java] [Maven](https://maven.apache.org/)
+* [Dotnet] [nuget](https://www.nuget.org/)
+* [Go] [godep](https://github.com/tools/godep)
+* [Ruby] [gem](https://rubygems.org/)
+* [Ruby] [bundler](http://bundler.io/)
+* [Python] [pip](https://pip.pypa.io/en/stable/)
+
 # 交流沟通
 
 * [Slack](https://slack.com/) - 支持API发送消息，支持集成大多数在线托管平台
