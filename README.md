@@ -28,6 +28,10 @@
 * [Python] [pip](https://pip.pypa.io/en/stable/)
 * [Swift/Objective-C] [CocoaPods](https://cocoapods.org/)
 
+# 文档
+
+* [Swagger](http://swagger.io/) API文档描述语言，支持API描述定义、测试描述定义、安全描述定义、SDK生成、API多版本定义、多语言支持等
+
 # 交流沟通
 
 * [Slack](https://slack.com/) - 支持API发送消息，支持集成大多数在线托管平台
