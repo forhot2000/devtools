@@ -12,7 +12,7 @@
 * [代理](#代理)
 * [测试](#测试)
 
-# 编辑器 {#editor}
+# 编辑器
 
 * [Sublime](https://www.sublimetext.com/) - 支持插件，支持多平台，对中文编码支持不太好
 * [Atom](https://atom.io/) - GitHub开发的文本编辑工具，支持插件，支持多平台
