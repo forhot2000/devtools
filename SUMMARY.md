@@ -1,7 +1,7 @@
 # Summary
 
 * [目录](README.md)
-  * [编辑器](/README.md#editor)
+  * [编辑器](/README.md#编辑器)
   * [IDE](/README.md#ide)
   * [源代码管理](/README.md#源代码管理)
   * [依赖项管理](/README.md#依赖项管理)
