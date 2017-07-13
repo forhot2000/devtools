@@ -12,7 +12,7 @@
 * [代理](#代理)
 * [测试](#测试)
 
-# 编辑器
+# 编辑器 {#editor}
 
 * [Sublime](https://www.sublimetext.com/) - 支持插件，支持多平台，对中文编码支持不太好
 * [Atom](https://atom.io/) - GitHub开发的文本编辑工具，支持插件，支持多平台
@@ -22,9 +22,9 @@
 
 # IDE
 
-* [Java] [Eclipse](http://www.eclipse.org/)
-* [Java] [Android Studio](https://developer.android.com/studio/index.html) - 国内可访问 http://www.android-studio.org/
-* [C#,Dotnet] [Visual Studio](https://www.visualstudio.com/)
+* \[Java\] [Eclipse](http://www.eclipse.org/)
+* \[Java\] [Android Studio](https://developer.android.com/studio/index.html) - 国内可访问 [http://www.android-studio.org/](http://www.android-studio.org/)
+* \[C\#,Dotnet\] [Visual Studio](https://www.visualstudio.com/)
 
 [返回顶部](#目录)
 
@@ -38,15 +38,15 @@
 
 # 依赖项管理
 
-* [Node] [npm](https://www.npmjs.com/)
-* [web] [bower](https://bower.io/)
-* [Java] [Maven](https://maven.apache.org/)
-* [Dotnet] [nuget](https://www.nuget.org/)
-* [Go] [godep](https://github.com/tools/godep)
-* [Ruby] [gem](https://rubygems.org/)
-* [Ruby] [bundler](http://bundler.io/)
-* [Python] [pip](https://pip.pypa.io/en/stable/)
-* [Swift/Objective-C] [CocoaPods](https://cocoapods.org/)
+* \[Node\] [npm](https://www.npmjs.com/)
+* \[web\] [bower](https://bower.io/)
+* \[Java\] [Maven](https://maven.apache.org/)
+* \[Dotnet\] [nuget](https://www.nuget.org/)
+* \[Go\] [godep](https://github.com/tools/godep)
+* \[Ruby\] [gem](https://rubygems.org/)
+* \[Ruby\] [bundler](http://bundler.io/)
+* \[Python\] [pip](https://pip.pypa.io/en/stable/)
+* \[Swift/Objective-C\] [CocoaPods](https://cocoapods.org/)
 
 [返回顶部](#目录)
 
@@ -87,10 +87,10 @@
 
 * [Jenkins](https://jenkins.io/)
 * [TeamCity](https://www.jetbrains.com/teamcity/)
-* [Travis CI](https://travis-ci.org/) - 在线托管平台，深度集成GitHub，私有仓库请使用 https://travis-ci.com/
+* [Travis CI](https://travis-ci.org/) - 在线托管平台，深度集成GitHub，私有仓库请使用 [https://travis-ci.com/](https://travis-ci.com/)
 * [Codeship](https://codeship.com/) - 在线托管平台
 * [Bamboo](https://www.atlassian.com/software/bamboo)
-* [AppVeyor](https://www.appveyor.com/) - 在线托管平台，支持C#,Dotnet项目
+* [AppVeyor](https://www.appveyor.com/) - 在线托管平台，支持C\#,Dotnet项目
 * Buddy
 * Drone.io
 
@@ -115,3 +115,4 @@
 * [Cross Browser Testing](https://crossbrowsertesting.com/)
 
 [返回顶部](#目录)
+
