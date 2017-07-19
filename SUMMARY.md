@@ -12,4 +12,7 @@
   * [CI](/README.md#ci)
   * [代理](/README.md#代理)
   * [测试](/README.md#测试)
+  * [Diagnosing](/README.md#diagnosing)
+
+
 
