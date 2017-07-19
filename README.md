@@ -55,14 +55,13 @@
 
 # CI
 
-* [Jenkins](https://jenkins.io/)
+* [Jenkins](https://jenkins.io/) - 开源，拥有巨量插件可以使用
 * [TeamCity](https://www.jetbrains.com/teamcity/)
-* [Travis CI](https://travis-ci.org/) - 在线托管平台，深度集成GitHub，私有仓库请使用 [https://travis-ci.com/](https://travis-ci.com/)
+* [Travis CI](https://travis-ci.org/) - 在线托管平台，仅与GitHub深度集成，私有仓库请使用 [https://travis-ci.com/](https://travis-ci.com/)
 * [Codeship](https://codeship.com/) - 在线托管平台
 * [Bamboo](https://www.atlassian.com/software/bamboo)
 * [AppVeyor](https://www.appveyor.com/) - 在线托管平台，支持C\#,Dotnet项目
-* Buddy
-* Drone.io
+* [Drone.io](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
 
 # 代理
 
@@ -79,6 +78,10 @@
 * [Apache JMeter](http://jmeter.apache.org/) - A 100% pure Java application designed to test and measure performance. It may be used as a highly portable server benchmark as well as multi-client load generator.
 * [Selenium](http://www.seleniumhq.org/) - Selenium is a suite of tools to automate web browsers across many platforms.
 * [Cross Browser Testing](https://crossbrowsertesting.com/)
+
+# Diagnosing
+
+* [Zipkin](http://zipkin.io/) - Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in microservice architectures. It manages both the collection and lookup of this data.
 
 
 
