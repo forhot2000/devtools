@@ -37,6 +37,7 @@
 # 交流沟通
 
 * [Slack](https://slack.com/) - 支持API发送消息，支持集成大多数在线托管平台
+* [Mattermost](https://about.mattermost.com/) - Open source, private cloud Slack-alternative, Self-hosted
 * [HipChat](https://www.hipchat.com/) - 支持API发送消息，支持集成大多数在线托管平台
 * [Gitter](https://gitter.im/)
 * 微信 - 支持API发送消息（需要创建公众号，比较复杂，需要具备开发能力）
