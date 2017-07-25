@@ -98,11 +98,11 @@
 * [ab](https://httpd.apache.org/docs/2.4/programs/ab.html) - Apache HTTP server benchmarking tool，随 Apache HTTP server 一起安装，可复制出来单独使用
 * [httperf](https://linux.die.net/man/1/httperf) - HTTP performance measurement tool
 * [nGrinder](https://naver.github.io/ngrinder/) - `Self-host`，Enterprise level performance testing solution based on The Grinder
-* [Testin](http://www.testin.cn/) - `Online`，支持真机测试
-* [Apache JMeter](http://jmeter.apache.org/) - A 100% pure Java application designed to test and measure performance. It may be used as a highly portable server benchmark as well as multi-client load generator.
+* [Testin](http://www.testin.cn/) - `Online`，支持`真机测试`
+* [Apache JMeter](http://jmeter.apache.org/) - Highly portable server benchmark as well as multi-client load generator.
 * [Selenium](http://www.seleniumhq.org/) - Selenium is a suite of tools to automate web browsers across many platforms.
-* [Cross Browser Testing](https://crossbrowsertesting.com/) - `Online`
+* [Cross Browser Testing](https://crossbrowsertesting.com/) - `Online`，支持多种浏览器测试
 
 ## 追踪调试
 
-* [Zipkin](http://zipkin.io/) - Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in microservice architectures. It manages both the collection and lookup of this data.
+* [Zipkin](http://zipkin.io/) - A distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in microservice architectures. It manages both the collection and lookup of this data.
