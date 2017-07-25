@@ -46,12 +46,12 @@
 
 # 图片处理
 
-| Tool                                                             | Description                         |
-|------------------------------------------------------------------|-------------------------------------|
-| [Photoshop](http://www.adobe.com/cn/products/cs6/photoshop.html) |                                     |
-| [马克鳗](http://www.getmarkman.com/)                                | 高效的设计稿标注、测量工具                       |
-| [PxCook 像素大厨](http://www.fancynode.com.cn/pxcook)                | 标注切图                                |
-| [Sketch](https://www.sketchapp.com/)                             | Professional digital design for Mac |
+| Tool                                                             | Description                         | Pay                  |
+|------------------------------------------------------------------|-------------------------------------|----------------------|
+| [Photoshop](http://www.adobe.com/cn/products/cs6/photoshop.html) |                                     | Trail/Pay            |
+| [马克鳗](http://www.getmarkman.com/)                                | 高效的设计稿标注、测量工具                       | Free/Pay for Advance |
+| [PxCook 像素大厨](http://www.fancynode.com.cn/pxcook)                | 标注切图                                | Free                 |
+| [Sketch](https://www.sketchapp.com/)                             | Professional digital design for Mac | Trail/Pay            |
 
 # 交流沟通
 
