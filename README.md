@@ -56,6 +56,7 @@
 * [马克鳗](http://www.getmarkman.com/) - `Free`/`Pay for Advance`，高效的设计稿标注、测量工具
 * [PxCook 像素大厨](http://www.fancynode.com.cn/pxcook) - `Free`，标注切图
 * [Sketch](https://www.sketchapp.com/) - Professional digital design for Mac
+* [Paint.NET](https://www.getpaint.net/) - `Free`，Image and photo editing software for PCs that run Windows，need .NET Framework support.
 
 ## 交流沟通
 
