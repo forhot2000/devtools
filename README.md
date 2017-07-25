@@ -44,6 +44,15 @@
 | [ReadMe](https://readme.io/)                                | 在线文档平台，发布公开的API文档                                       | Online             |
 | [Confluence](https://www.atlassian.com/software/confluence) | 文档协作平台                                                  | Online / Self-host |
 
+# 图片处理
+
+| Tool                                                             | Description                         |
+|------------------------------------------------------------------|-------------------------------------|
+| [Photoshop](http://www.adobe.com/cn/products/cs6/photoshop.html) |                                     |
+| [马克鳗](http://www.getmarkman.com/)                                | 高效的设计稿标注、测量工具                       |
+| [PxCook 像素大厨](http://www.fancynode.com.cn/pxcook)                | 标注切图                                |
+| [Sketch](https://www.sketchapp.com/)                             | Professional digital design for Mac |
+
 # 交流沟通
 
 | Tool                                        | Description                                   | Deploy      |
