@@ -12,7 +12,7 @@
   * [持续集成](/README.md#持续集成)
   * [代理](/README.md#代理)
   * [测试](/README.md#测试)
-  * [追踪调试](/README.md#追踪调试)
+  * [监控](/README.md#监控)
 
 
 
